@@ -2,7 +2,7 @@
 
 ![demo](./src/assets/Demo.png)
 
-## Run project `Youtube clone`
+## Chạy dự án
 
 - `npm run dev`
 
