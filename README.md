@@ -2,7 +2,7 @@
 
 ![demo](./src/assets/Demo.png)
 
-#### Run project `Youtube clone`
+## Run project `Youtube clone`
 
 - `npm run dev`
 [Live Preview](https://youtube-clone-theta-nine-85.vercel.app/)
