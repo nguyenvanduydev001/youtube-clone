@@ -1,8 +1,8 @@
-## YouTube Clone Using React JS & Youtube Data API,KEY 
+# Demo Youtube clone
 
 ![demo](./src/assets/Demo.png)
 
-# React + Vite + Gemini API
+## React + Vite + Youtube API
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
