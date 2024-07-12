@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 
 ## Running projects *Youtube clone*
 
-- `npm run dev`
+- ```bash npm run dev```
 
 <hr>
 
